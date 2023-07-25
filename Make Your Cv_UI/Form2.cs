@@ -78,7 +78,8 @@ namespace Make_Your_Cv_UI
 
         private void Form2_Load(object sender, EventArgs e)
         {
-            pictureBox1.Image = Image.FromFile(ImagePath);
+            if (!string.IsNullOrWhiteSpace(ImagePath))
+               pictureBox1.Image = Image.FromFile(ImagePath);
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)
