@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Make Your Cv_UI\bin\Debug\Make Your Cv_UI.exe.config
+C:\Users\HP\source\repos\Make Your Cv_UI\bin\Debug\Make Your Cv_UI.exe
+C:\Users\HP\source\repos\Make Your Cv_UI\bin\Debug\Make Your Cv_UI.pdb
+C:\Users\HP\source\repos\Make Your Cv_UI\obj\Debug\Make Your Cv_UI.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Make Your Cv_UI\obj\Debug\Make_Your_Cv_UI.Form1.resources
+C:\Users\HP\source\repos\Make Your Cv_UI\obj\Debug\Make_Your_Cv_UI.Properties.Resources.resources
+C:\Users\HP\source\repos\Make Your Cv_UI\obj\Debug\Make Your Cv_UI.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Make Your Cv_UI\obj\Debug\Make Your Cv_UI.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Make Your Cv_UI\obj\Debug\Make Your Cv_UI.exe
+C:\Users\HP\source\repos\Make Your Cv_UI\obj\Debug\Make Your Cv_UI.pdb
+C:\Users\HP\source\repos\Make Your Cv_UI\obj\Debug\Make_Your_Cv_UI.Form2.resources
